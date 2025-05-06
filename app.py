@@ -39,7 +39,6 @@ SKILLS_CATEGORIES = {
         "Linux", "Git", "NLP", "TensorFlow", "Communication Skills", "Problem-Solving",
         "Financial Analysis", "Accounting", "Recruitment", "English", "Spanish", "French"
     ]
-    # Add more categories as needed
 }
 
 # -- STREAMLIT UI --
