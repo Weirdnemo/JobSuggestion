@@ -54,6 +54,7 @@ selected_skills = st.sidebar.multiselect(
 )
 
 # -- API KEY INPUT (Moved to sidebar for better organization) --
+# gemini_api_key = "AIzaSyCbvWTxGdx0dkY6zzFe3oo6rGJdRKMsbMY"
 gemini_api_key = st.sidebar.text_input("Enter your Gemini API Key:", type="password")
 if not gemini_api_key:
     st.sidebar.warning("Please enter your Gemini API key to use the app.")
