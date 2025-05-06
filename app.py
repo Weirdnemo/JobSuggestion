@@ -4,6 +4,7 @@ import os
 import fitz  # PyMuPDF for PDF
 import docx  # for .docx
 
+test = "testing"
 # -- SKILLS LIST (Categorized) --
 SKILLS_CATEGORIES = {
     "Programming Languages": [
