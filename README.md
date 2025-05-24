@@ -16,13 +16,6 @@ This is an interactive Streamlit application that uses **Google Gemini (Generati
 
 ---
 
-## 📸 Demo
-
-> *(Add a screenshot of your app here if available)*  
-> `![app-demo](https://via.placeholder.com/800x400.png?text=Demo+Screenshot)`
-
----
-
 ## 🧰 Tech Stack
 
 - [Streamlit](https://streamlit.io/)
@@ -56,7 +49,7 @@ streamlit run app.py
 ## 🔐 Gemini API KEY
 
 To use the app, you need a Gemini API key from Google.
-Visit[Google AI Studio](https://makersuite.google.com/app/apikey)
+Visit [Google AI Studio](https://makersuite.google.com/app/apikey)
 Sign in and create an API key
 Paste the key in the sidebar of the app
 
